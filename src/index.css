@@ -1,6 +1,9 @@
+/* index.css */
+
 /* Estilos globales */
 body {
-  background-color: #212226; /* Color de fondo dark mode */
+  background: url('C:\Users\Miguel Angel\Desktop\finalweb\FONDO.png') no-repeat center center fixed;
+  background-size: cover;
   color: #CFF250; /* Color del texto */
   font-family: 'Poppins', sans-serif; /* Tipografía moderna */
   margin: 0;
